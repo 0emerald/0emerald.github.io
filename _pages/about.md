@@ -40,6 +40,6 @@ I collaborate on the Smart Data Research project: [An atlas of economic activiti
 * Turing Institute PhD Student Networking and Presentations (Speaker), April 2023
 * Quantitative Social Science (QuSS) Bristol Seminar Series (Speaker), February 2023
 * Turing Institute Urban Analytics 2.0 Inequalities in the recovery of cities and regions (Speaker), November 2022
-* 4th Institute of Mathematics \& its Applications (IMA) Conference on The Mathematical Challenges of Big Data (Speaker), September 2022
+* 4th Institute of Mathematics & its Applications (IMA) Conference on The Mathematical Challenges of Big Data (Speaker), September 2022
 * European Regional Science Association (ERSA) 61st Congress (Speaker), August 2022
   
