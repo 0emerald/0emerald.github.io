@@ -12,6 +12,13 @@ See more info at https://academicpages.github.io/
 
 Repository forked from open-access [academic pages repository](https://github.com/academicpages/academicpages.github.io). 
 
+# Useful quick start
+* Edit the `_pages/about.me`
+* `_config.yml` changes landing page info.
+* `images` contains all images on site.
+* `_data/navigation.yml` can decide what pages to include on site. 
+* 
+
 # Maintenance
 
 Bug reports and feature requests to the template should be [submitted via GitHub](https://github.com/academicpages/academicpages.github.io/issues/new/choose). For questions concerning how to style the template, please feel free to start a [new discussion on GitHub](https://github.com/academicpages/academicpages.github.io/discussions).
