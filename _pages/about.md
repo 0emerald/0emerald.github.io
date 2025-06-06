@@ -16,9 +16,9 @@ My research focuses on developing network science methodologies, alongside using
 
 **Papers**
 ======
-[Valid Bootstraps for Network Embeddings with Applications to Network Visualisation](https://arxiv.org/abs/2410.20895) Emerald Dilworth, Ed Davis, Daniel Lawson _Uncertainty in Artificial Intelligence (UAI)_
+[Valid Bootstraps for Network Embeddings with Applications to Network Visualisation](https://arxiv.org/abs/2410.20895) Emerald Dilworth, Ed Davis, Daniel Lawson _Uncertainty in Artificial Intelligence (UAI)_, 2025
 
-[Assessing geographic polarisation in Britain’s digital landscape through stable dynamic embedding of spatial web data](https://doi.org/10.1140/epjds/s13688-025-00537-x) Emerald Dilworth, Emmanouil Tranos, Daniel Lawson _EPJ Data Science_
+[Assessing geographic polarisation in Britain’s digital landscape through stable dynamic embedding of spatial web data](https://doi.org/10.1140/epjds/s13688-025-00537-x) Emerald Dilworth, Emmanouil Tranos, Daniel Lawson _EPJ Data Science_, 2025
 
 For papers related to other research, please see [Google Scholar](https://scholar.google.com/citations?user=9Jz4MnIAAAAJ&hl=en). 
 
