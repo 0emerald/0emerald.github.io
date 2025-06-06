@@ -13,9 +13,9 @@ title                    : "Emerald Dilworth"
 title_separator          : "-"
 name                     : &name "Emerald Dilworth"
 description              : &description "Statistical Machine Learning PhD Student"
-url                      : https://emeralddilworth.github.io 
+url                      : https://0emerald.github.io 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "0emerald/emeralddilworth.github.io"
+repository               : "0emerald/0emerald.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
