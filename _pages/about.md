@@ -36,7 +36,7 @@ I collaborate on the Smart Data Research project: [An atlas of economic activiti
 * London Data Week session "Web Archives: An Untapped Source of Smart Data" (Invited Speaker), July 2024
 * Quantitative Social Science (QuSS) Bristol Seminar Series (Speaker), March 2024
 * European Regional Science Association (ERSA) German Speaking Section(GfR) Winter Seminar (Speaker), February 2024
-* Compass Annual Conference (Speaker), Sep 2023
+* Compass Annual Conference (Speaker), September 2023
 * Turing Institute PhD Student Networking and Presentations (Speaker), April 2023
 * Quantitative Social Science (QuSS) Bristol Seminar Series (Speaker), February 2023
 * Turing Institute Urban Analytics 2.0 Inequalities in the recovery of cities and regions (Speaker), November 2022
