@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-PhD student at the Centre for Doctoral Training in Computational Statistics and Data Science at the University of Bristol, supervised by Professor Emmanouil Tranos and Dr Daniel Lawson.
+PhD at the Centre for Doctoral Training in Computational Statistics and Data Science at the University of Bristol, supervised by Prof. Emmanouil Tranos and Prof. Daniel Lawson.
 
 **Research Interests**
 ======
