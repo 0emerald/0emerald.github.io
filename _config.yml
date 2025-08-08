@@ -12,7 +12,7 @@ site_theme               : "default"
 title                    : "Emerald Dilworth"
 title_separator          : "-"
 name                     : &name "Emerald Dilworth"
-description              : &description "Statistical Machine Learning PhD Student"
+description              : &description "Statistical Machine Learning PhD"
 url                      : https://0emerald.github.io 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "0emerald/0emerald.github.io"
@@ -25,7 +25,7 @@ author:
   avatar           : "emerald-caricature.png"
   name             : "Emerald Dilworth"
   pronouns         : "she/her"  
-  bio              : "Statistical Machine Learning PhD Student"
+  bio              : "Statistical Machine Learning PhD"
   location         : "Bristol, UK"
   employer         : "University of Bristol"
   uri              : # URL
